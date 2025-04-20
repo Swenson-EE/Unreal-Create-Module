@@ -1,0 +1,7 @@
+{
+    "template_folder": "Module Template",
+    "relative_dir": "",
+    "source_dir": "Source",
+    "template": "[MODULE]",
+    "project_name": "TestProject"
+}
