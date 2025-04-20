@@ -1,1 +1,1 @@
-python CreateModule.py
+python CreateModule.py --config config.json
